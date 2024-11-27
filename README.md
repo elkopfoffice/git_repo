@@ -1,3 +1,3 @@
-# git_repo!
+# git_repo!!
 
-we are creating examples of using git
+We are creating examples of using git.
